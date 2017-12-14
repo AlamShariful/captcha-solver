@@ -10,11 +10,12 @@
 6. keras
 7. imutils
 
-## To run
-
-1. python3 extract_letters_from_captcha.py
-2. python3 train_model.py
-3. python3 solve_captchas.py
+## To run   
+```
+python3 extract_letters_from_captcha.py
+python3 train_model.py
+python3 solve_captchas.py
+```
 
 ## Model Summary
 
