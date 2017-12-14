@@ -1,4 +1,4 @@
-# CAPTCHA Solver (Wordpress CAPTCH Plug-In)
+# CAPTCHA Solver (Wordpress CAPTCHA Plug-In)
 
 ## Dependencies
 
